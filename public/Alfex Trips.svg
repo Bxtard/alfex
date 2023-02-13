@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="15.5178mm" height="12.6962mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 203.43 166.44"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:url(#id0)}
+    .fil3 {fill:url(#id1)}
+    .fil4 {fill:url(#id2)}
+    .fil0 {fill:url(#id3)}
+    .fil2 {fill:url(#id4)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="71.11" y1="45.67" x2="179.73" y2="45.67">
+   <stop offset="0" style="stop-opacity:1; stop-color:#A80004"/>
+   <stop offset="0.560784" style="stop-opacity:1; stop-color:#D2120A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FD2411"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="23.71" y1="120.77" x2="132.33" y2="120.77">
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="0.01" y1="158.33" x2="108.62" y2="158.33">
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="94.82" y1="8.12" x2="203.43" y2="8.12">
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="47.41" y1="83.22" x2="156.03" y2="83.22">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1672679598288">
+   <polygon class="fil0" points="203.43,0 104.9,0 94.81,16.23 193.35,16.23 "/>
+   <polygon class="fil1" points="71.11,53.79 169.64,53.79 179.73,37.56 81.19,37.56 "/>
+   <polygon class="fil2" points="47.41,91.34 145.94,91.34 156.03,75.11 57.49,75.11 "/>
+   <polygon class="fil3" points="23.71,128.89 122.24,128.89 132.32,112.67 33.79,112.67 "/>
+   <polygon class="fil4" points="-0,166.44 98.54,166.44 108.63,150.22 10.09,150.22 "/>
+  </g>
+ </g>
+</svg>
