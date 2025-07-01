@@ -11,6 +11,7 @@ export default function Navbar() {
 
   const navItems = [
     { name: "Inicio", href: "/" },
+    { name: "Servicios", href: "/servicios" },
     { name: "Sobre Nosotros", href: "/sobre-nosotros" },
     { name: "Blog", href: "/blog" },
     { name: "Contacto", href: "/contacto" },
@@ -22,8 +23,8 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
-            <Building2 className="h-8 w-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900">EmpresaPro</span>
+            <Building2 className="h-8 w-8 text- blue-600" />
+            <span className="text-xl font-bold text-gray-900">Alfex</span>
           </Link>
 
           {/* Desktop Navigation */}
